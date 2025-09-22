@@ -1,0 +1,22 @@
+Python 3.12.5 (tags/v3.12.5:ff3bc82, Aug  6 2024, 20:45:27) [MSC v.1940 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/kianm/OneDrive/Documents/Hands-on 16 JSON and APIs.py
+
+
+
+Enter a country currency to convert to: zwl
+Enter an amount to convert: $86
+A $86.0 US dollars is worth $5441757.07146544 in Zimbabwean Dollar
+Another? Y or N: y
+Enter a country currency to convert to: gbb
+Country code not found
+Enter a country currency to convert to: eur
+Enter a country currency to convert to: eur
+Enter an amount to convert: $48
+A $48.0 US dollars is worth $45.91409328 in Euro
+Another? Y or N: y
+Enter a country currency to convert to: all
+Enter an amount to convert: $195
+A $195.0 US dollars is worth $18325.8928242 in Albanian Lek
+Another? Y or N: n
