@@ -1,2 +1,2 @@
-# IT Projects
-Projects I have done that relate to cybersecurity and IT
+# Python Projects
+Projects I have done using Python
